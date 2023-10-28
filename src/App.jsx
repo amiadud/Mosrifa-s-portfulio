@@ -11,7 +11,7 @@ function App() {
   const navLinks = <>
   <li className='mx-1  md:text-black lg:text-white'><a className='md:text-black lg:text-white ' href="/">Home</a></li>
   <li className='mx-1  md:text-black lg:text-white'><a className='bg-gray md:text-black lg:text-white' href="/#about">About</a></li>
-  <li className='mx-1  md:text-black lg:text-white'><a className='bg-gray md:text-black lg:text-white' href="/#contact">Contant</a></li>
+  <li className='mx-1  md:text-black lg:text-white'><a className='bg-gray md:text-black lg:text-white' href="/#contact">Contact</a></li>
   </>
 
     return (
