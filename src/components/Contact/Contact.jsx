@@ -9,7 +9,7 @@ const Contact = () => {
                 <div className='flex-1 text-white space-y-2 '>
                 <h2 className='text-5xl font-semibold'>Contact Details</h2>
                 <h2>Mosrifa Yeasmin Mim</h2>
-                <h2>Ukilpara Naogaon,rajshahi</h2>
+                <h2>Ukilpara, Naogaon, Rajshahi.</h2>
                 <h3>+880 1314-592447</h3>
                 <h3>mosrifayeasminmim4u@gmail.com</h3>
                 </div>
