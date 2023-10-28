@@ -5,7 +5,7 @@ const Contact = () => {
     return (
         <div className='py-16 mx-auto' >
            
-            <div className=' flex  justify-center items-center flex-col md:flex-row ml-5 gap-10'>
+            <div className=' flex  justify-center items-center flex-col md:flex-row mx-5 gap-10'>
                 <div className='flex-1 text-white space-y-2 '>
                 <h2 className='text-5xl font-semibold'>Contact Details</h2>
                 <h2>Mosrifa Yeasmin Mim</h2>
