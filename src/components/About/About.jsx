@@ -13,7 +13,7 @@ const About = () => {
                 <p className='text-lg lg:text-3xl md:text-2xl '>Currently Completing my Bachelor of Computer Science and Engineering from Varendra University of Bangladesh. My Passion is becoming a best Web Developer .</p>
                 <div className='py-10'>
                 <h2 className='text-xl md:text-5xl lg:text-7xl font-semibold'>Skills</h2>
-                <div className='flex flex-wrap gap-6 '>
+                <div className='flex flex-wrap gap-6 mt-3 '>
                     <div className='btn  text-lg lg:text-3xl md:text-2xl'>PHP</div>
                     <div className='btn text-lg lg:text-3xl md:text-2xl'>HTML</div>
                     <div className='btn text-lg lg:text-3xl md:text-2xl'>CSS</div>
